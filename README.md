@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-2%20years-orange?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
-    <img src="https://img.shields.io/badge/Python-3.5%20years-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-    <img src="https://img.shields.io/badge/SQL-2.5%20years-blue?style=for-the-badge&logo=mysql&logoColor=orange" alt="SQL">
-    <img src="https://img.shields.io/badge/Git-2%20years-F05032?style=for-the-badge&logo=git" alt="Git">    
-    <img src="https://img.shields.io/badge/MC%20Plugins-2%20years-darkgreen?style=for-the-badge&logo=anycubic&logoColor=green" alt="Minecraft">
-    <img src="https://img.shields.io/badge/DC%20Bots-3%20years-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Java-2.5%20years-orange?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
+    <img src="https://img.shields.io/badge/Python-4%20years-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-3%20years-blue?style=for-the-badge&logo=mysql&logoColor=orange" alt="SQL">
+    <img src="https://img.shields.io/badge/Git-2.5%20years-F05032?style=for-the-badge&logo=git" alt="Git">    
+    <img src="https://img.shields.io/badge/MC%20Plugins-2.5%20years-darkgreen?style=for-the-badge&logo=anycubic&logoColor=green" alt="Minecraft">
+    <img src="https://img.shields.io/badge/DC%20Bots-3.5%20years-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-<img src="https://zeew.space/_next/image?url=%2Fimgs%2Fz-logo.png&w=828&q=75" align="left" width="80px" alt="ZeewSpace" style="margin-right: 20px;">
+<img src="https://zeew.space/favicon.ico?favicon.53e5db74.ico" align="left" width="80px" alt="ZeewSpace" style="margin-right: 20px;">
 
 ### **[Zeew Space](https://zeew.space/)**
 **Contributor** • *2023*
