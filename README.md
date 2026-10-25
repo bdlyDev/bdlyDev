@@ -1,16 +1,16 @@
 # 👋 ¡Hello! I'm Yoni
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+Plugins;Discord+Bots;Scripts;REST+API's&font=Fira+Code&center=true&vCenter=true&width=500&height=45&color=00D9FF&duration=3000&pause=500&size=35" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+Plugins;Discord+Bots;Scripts;REST+API's&font=Fira+Code&center=true&vCenter=true&width=500&height=60&color=00D9FF&duration=3000&pause=500&size=35" alt="Typing SVG">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-2.5%20years-orange?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
-    <img src="https://img.shields.io/badge/Python-4%20years-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-    <img src="https://img.shields.io/badge/SQL-3%20years-blue?style=for-the-badge&logo=mysql&logoColor=orange" alt="SQL">
-    <img src="https://img.shields.io/badge/Git-2.5%20years-F05032?style=for-the-badge&logo=git" alt="Git">    
-    <img src="https://img.shields.io/badge/MC%20Plugins-2.5%20years-darkgreen?style=for-the-badge&logo=anycubic&logoColor=green" alt="Minecraft">
-    <img src="https://img.shields.io/badge/DC%20Bots-3.5%20years-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Java-3%20years-orange?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
+    <img src="https://img.shields.io/badge/Python-4.5%20years-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-3.5%20years-blue?style=for-the-badge&logo=mysql&logoColor=orange" alt="SQL">
+    <img src="https://img.shields.io/badge/Git-3%20years-F05032?style=for-the-badge&logo=git" alt="Git">    
+    <img src="https://img.shields.io/badge/MC%20Plugins-3%20years-darkgreen?style=for-the-badge&logo=anycubic&logoColor=green" alt="Minecraft">
+    <img src="https://img.shields.io/badge/DC%20Bots-4%20years-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </p>
 
 ---
@@ -26,7 +26,7 @@
 <img src="https://i.imgur.com/sJWXivr_d.webp?maxwidth=760&fidelity=grand" align="left" width="80px" alt="MineCub" style="margin-right: 20px;">
 
 ### **[MineCub Network](https://minecub.es/)**
-**Admin / Developer** • *2021 - Present*
+**Admin / Developer** • *2021 - 2026*
 
 <br />
 
@@ -47,7 +47,22 @@
 
 ---
 
-<img src="https://zeew.space/favicon.ico?favicon.53e5db74.ico" align="left" width="80px" alt="ZeewSpace" style="margin-right: 20px;">
+<img src="https://www.regorland.net/logo.webp" align="left" width="80px" alt="Regorland" style="margin-right: 20px;">
+
+### **[Regorland](https://www.regorland.net/)**
+**Commission** • *2025*
+
+<br />
+
+**🛠️ Projects**
+- Minecraft economy plugin
+
+**💡 Technologies** <br /><br />
+<img src="https://skillicons.dev/icons?i=java,mysql,git,gradle,idea&theme=dark" alt="RegorlandThechnologies" width="40%">
+
+---
+
+<img src="https://zeew.space/logo.png" align="left" width="80px" alt="ZeewSpace" style="margin-right: 20px;">
 
 ### **[Zeew Space](https://zeew.space/)**
 **Contributor** • *2023*
